@@ -1,0 +1,19 @@
+[
+    {
+        "user": "Daniel",
+        "email": "a@a.com",
+        "password": "aa",
+        "verificado": "true"
+    },
+    {
+        "user": "Luis",
+        "email": "l@a.com",
+        "password": "$2a$05$clhJWdjv3hScQ13bwmQrv.RK2PID/Nhfv6i/iZ894WYXalnrIfa3G"
+    },
+    {
+        "user": "Ilse",
+        "email": "a@a.com",
+        "password": "$2a$05$EsxR5tBvudtKHE6T6K3tluskPLB1raZ.nRZLiuJUoFBxjMwA24zke",
+        "verificado": "false"
+      }
+]
